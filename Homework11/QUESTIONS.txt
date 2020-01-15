@@ -1,0 +1,8 @@
+Question 1: What is the name of the layout file for the main activity?
+Answer 3: activity_main.xml
+
+Question 2: What is the name of the string resource that specifies the app's name?
+Answer 1: app_name
+
+Question 3: Which tool do you use to create a new emulator?
+Answer 2: AVD Manager
