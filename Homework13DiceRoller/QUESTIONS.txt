@@ -1,0 +1,14 @@
+Question 1: Which <ImageView> attribute indicates a source image that should be used only in Android Studio?
+Answer 3: tools:src
+
+Question 2: Which method changes the image resource for an ImageView in Kotlin code? xmx
+Answer 1: setImageResource()
+
+Question 3: What does the lateinit keyword in a variable declaration indicate in Kotlin code?
+Answer 4: The variable will be initialized later. I promise!
+
+Question 4: Which Gradle configuration indicates the most recent API level your app has been tested with?
+Answer 3: targetSdkVersion
+
+Question 5: You see an import line in your code that starts with androidx. What does this mean?
+Answer 1: The class is part of the Android Jetpack libraries.
