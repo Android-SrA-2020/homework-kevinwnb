@@ -1,0 +1,31 @@
+Question 1
+Which of the following is NOT an activity lifecycle state?
+
+Started
+==> Waiting
+Created
+Destroyed
+
+Question 2
+Which lifecycle method is called to make an activity visible?
+
+onPause()
+onVisible()
+==> onStart()
+onDestroy()
+
+Question 3
+Which lifecycle method is called to give an activity focus?
+
+==> onResume()
+onVisible()
+onStart()
+onFocus()
+
+Question 4
+When is onCreate() called in an activity?
+
+Each time the activity is visible to the user.
+Each time the activity returns from the background.
+==> Only once, when the activity is created.
+Only once, when the activity is resumed.
