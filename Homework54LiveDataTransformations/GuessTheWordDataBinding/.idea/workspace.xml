@@ -6,9 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faef36a8-6399-4e99-8c19-0fe0d9e4e379" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Homework53DatabindingWithVMandLD/GuessTheWordLiveData/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework53DatabindingWithVMandLD/GuessTheWordLiveData/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="faef36a8-6399-4e99-8c19-0fe0d9e4e379" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,6 +200,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
